@@ -3,13 +3,12 @@
 # Documentation: https://wowchemy.com/docs/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
+# Appearance 
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: coffee
   font: minimal
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -18,8 +17,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal website of Dr Dmitri Finkelshtein'
+    twitter: 'finkelshtein'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +31,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Dmitri Finkelshtein. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -68,7 +67,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/finkelshtein/personal-web-site'
     content_dir: content
     branch: main
   avatar:
