@@ -8,8 +8,6 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-featured_only = true
-
 title = "Selected Publications"
 subtitle = ""
 
@@ -26,14 +24,14 @@ subtitle = ""
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = false
 
-  featured_only = true
-
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
     category = ""
     publication_type = ""
     author = ""
+    featured_only = true
+    featured = "true"
   
 [design]
   # Toggle between the various page layout types.
