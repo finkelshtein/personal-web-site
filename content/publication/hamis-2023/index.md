@@ -5,7 +5,7 @@ authors: ["Sara Hamis", "Panu Somervuo", "J. Arvid Ågren", "Dagim Shiferaw Tade
 date: 2023-01-01
 publishDate: 2024-03-28T07:47:34.272021Z
 publication_types: ["2"]
-publication: '*J. Math. Biol.*'
+publication: '*Journal of Mathematical Biology*'
 doi: 10.1007/s00285-023-01903-x
 featured: false
 ---
