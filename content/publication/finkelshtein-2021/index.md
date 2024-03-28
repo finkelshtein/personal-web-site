@@ -4,6 +4,6 @@ authors: ["Dmitri Finkelshtein", "Yuri Kondratiev", "Peter Kuchling"]
 date: 2021-01-01
 publishDate: 2024-03-28T07:47:34.287956Z
 publication_types: ["2"]
-publication: '*Methods Funct. Anal. Topology*'
+publication: '*Methods Functional Analysis and Topology*'
 featured: false
 ---
