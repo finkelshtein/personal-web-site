@@ -18,6 +18,7 @@ publication_types:
 - article-journal
 publication: '*J. Math. Biol.*'
 doi: 10.1007/s00285-023-01903-x
+featured: false
 links:
 - name: URL
   url: https://doi.org/10.1007/s00285-023-01903-x
