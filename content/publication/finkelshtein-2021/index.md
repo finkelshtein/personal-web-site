@@ -9,4 +9,5 @@ publishDate: '2024-03-28T07:47:34.287956Z'
 publication_types:
 - article-journal
 publication: '*Methods Funct. Anal. Topology*'
+featured: false
 ---
