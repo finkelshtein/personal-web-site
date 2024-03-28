@@ -24,6 +24,8 @@ subtitle = ""
   # Show a "See all pages" link underneath the featured content?
   link_to_archive = false
 
+  featured_only = true
+
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
